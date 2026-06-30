@@ -1,61 +1,123 @@
-# Simple Operations in C
+# 📘 C Programming Assignments
 
-## Overview
-This repository contains my first C programming assignment uploaded to GitHub. The program demonstrates basic arithmetic operations on two numbers entered by the user.
+A collection of my **C programming internship assignments** completed as part of my learning journey in programming.
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulus
-
-## Technologies Used
-- C Programming Language
-- GCC Compiler
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository-name
-   ```
-
-3. Compile the program:
-   ```bash
-   gcc simple_operations.c -o simple_operations
-   ```
-
-4. Run the program:
-   ```bash
-   ./simple_operations
-   ```
-
-## Sample Output
-
-```text
-Enter two integers: 10 5
-
-Addition = 15
-Subtraction = 5
-Multiplication = 50
-Division = 2.00
-Modulus = 0
-```
-
-## Learning Outcomes
-- Understanding C syntax
-- Working with variables and data types
-- Using arithmetic operators
-- Taking user input and displaying output
-
-## Author
-VIDHAN AGARWAL
+This repository contains solutions to various programming problems, covering fundamental concepts of the C programming language. I will continue updating this repository as I complete more assignments.
 
 ---
-This project is part of my C programming learning journey and my first assignment uploaded to GitHub.
+
+## 🎯 Objectives
+
+- Strengthen C programming fundamentals
+- Improve problem-solving skills
+- Practice writing clean and efficient code
+- Track my programming progress
+- Build a consistent GitHub portfolio
+
+---
+
+## 📂 Assignment Categories
+
+- 🔹 Basic Input & Output
+- 🔹 Operators & Expressions
+- 🔹 Conditional Statements
+- 🔹 Loops
+- 🔹 Functions
+- 🔹 Arrays
+- 🔹 Strings
+- 🔹 Pointers
+- 🔹 Recursion
+- 🔹 Pattern Programs
+- 🔹 File Handling
+- 🔹 Mini Programs
+
+---
+
+## 🛠️ Technologies Used
+
+- 💻 C Programming Language
+- 🖥️ Visual Studio Code / IntelliJ IDEA
+- 📝 GCC Compiler
+- 🌐 Git & GitHub
+
+---
+
+## 📁 Repository Structure
+
+```text
+ASSIGNMENTS/
+│
+├── Assignment 1/
+├── Assignment 2/
+├── Assignment 3/
+├── Assignment 4/
+├── Assignment 5/
+│
+├── README.md
+└── .gitignore
+```
+
+---
+
+## 📚 Topics Covered
+
+- Variables & Data Types
+- Input & Output
+- Operators
+- If-Else
+- Switch Case
+- Loops
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Structures
+- File Handling
+- Dynamic Memory Allocation
+- Recursion
+
+---
+
+## 🚀 Learning Progress
+
+✔️ C Programming Basics
+
+✔️ Problem Solving
+
+🔄 Data Structures (Coming Soon)
+
+🔄 Algorithms (Coming Soon)
+
+---
+
+## ⭐ Repository Highlights
+
+- Well-organized assignment solutions
+- Beginner-friendly code
+- Regularly updated
+- Focus on clean coding practices
+
+---
+
+## 📌 Future Improvements
+
+- Add comments to every program
+- Optimize existing solutions
+- Include algorithm explanations
+- Add time and space complexity
+- Organize assignments into folders
+
+---
+
+## 👨‍💻 Author
+
+**Vidhan Agarwal**
+
+🎓 B.Tech Computer Science Engineering Student
+
+💡 Learning • Building • Growing
+
+---
+
+### ⭐ If you find this repository useful, consider giving it a Star!
+
